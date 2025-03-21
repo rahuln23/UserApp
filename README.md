@@ -8,7 +8,6 @@ This repository contains a React Native application built as part of a technical
 
 Before running the project, ensure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (Latest LTS version recommended)
 - [npm](https://www.npmjs.com/)
 - React Native CLI
 - Android Studio (for Android development) or Xcode (for iOS development)
@@ -19,8 +18,8 @@ Before running the project, ensure you have the following installed:
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/rahuln23/UserApp.git
+cd https://github.com/rahuln23/UserApp.git
 ```
 
 Install the dependencies:
